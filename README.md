@@ -1,6 +1,6 @@
-<h1 align="center">
-  Url Shortner
-</h1>
+<div align="center">
+  <img scr="Banner-url-shortener.png"/>
+</div>
 
 <p align="center">
   I built a python app that allows you to shorten urls through the intgrated app. 🐍
